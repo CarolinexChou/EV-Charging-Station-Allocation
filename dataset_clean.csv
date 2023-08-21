@@ -1,0 +1,118 @@
+,County,Data Year,Number of Vehicles
+0,Los Angeles,2021,91539
+1,Los Angeles,2020,61469
+2,Orange,2021,50071
+3,Los Angeles,2019,45370
+5,Orange,2020,35124
+7,San Diego,2021,32685
+8,Los Angeles,2018,29530
+11,Orange,2019,26056
+12,San Diego,2020,22289
+16,Orange,2018,16704
+17,San Diego,2019,16220
+20,Los Angeles,2017,15557
+21,Riverside,2021,13758
+25,Los Angeles,2016,10456
+27,San Bernardino,2021,10209
+28,San Diego,2018,10202
+32,Orange,2017,8357
+34,Ventura,2021,8155
+35,Riverside,2020,7850
+38,Los Angeles,2015,6216
+40,San Bernardino,2020,5906
+44,Ventura,2020,5514
+45,Orange,2016,5326
+46,Riverside,2019,5095
+48,San Diego,2017,4655
+52,Ventura,2019,4073
+55,San Bernardino,2019,3934
+58,Los Angeles,2014,3749
+61,Santa Barbara,2021,3204
+63,Orange,2015,3098
+64,San Diego,2016,2986
+67,Riverside,2018,2802
+72,Ventura,2018,2526
+79,Santa Barbara,2020,2244
+80,Los Angeles,2013,2063
+81,San Bernardino,2018,2057
+82,San Luis Obispo,2021,2007
+91,Kern,2021,1798
+94,San Diego,2015,1763
+95,Orange,2014,1716
+99,Santa Barbara,2019,1637
+106,San Luis Obispo,2020,1382
+111,Riverside,2017,1245
+115,Ventura,2017,1192
+117,Santa Barbara,2018,1157
+120,San Diego,2014,1045
+123,Kern,2020,989
+124,San Luis Obispo,2019,986
+130,Orange,2013,880
+132,San Bernardino,2017,852
+133,Ventura,2016,802
+143,Riverside,2016,698
+148,San Luis Obispo,2018,652
+150,Kern,2019,621
+151,Santa Barbara,2017,604
+152,San Diego,2013,593
+159,Ventura,2015,511
+164,San Bernardino,2016,452
+174,Santa Barbara,2016,370
+175,Riverside,2015,368
+179,Kern,2018,332
+188,Ventura,2014,284
+196,San Bernardino,2015,259
+198,San Luis Obispo,2017,254
+209,Imperial,2021,197
+210,Santa Barbara,2015,197
+215,San Luis Obispo,2016,176
+224,Los Angeles,2012,158
+225,Riverside,2014,158
+231,Ventura,2013,148
+237,Kern,2017,140
+238,Los Angeles,2011,139
+245,San Bernardino,2014,124
+246,Los Angeles,2010,123
+247,Santa Barbara,2014,122
+251,Imperial,2020,102
+259,San Luis Obispo,2015,95
+273,Kern,2016,80
+276,Riverside,2013,76
+285,Santa Barbara,2013,70
+287,Imperial,2019,68
+290,San Luis Obispo,2014,63
+301,Kern,2015,54
+302,Orange,2012,53
+312,San Bernardino,2013,45
+314,San Diego,2012,45
+318,San Luis Obispo,2013,41
+320,Orange,2011,40
+321,San Diego,2011,40
+339,Imperial,2018,33
+344,Orange,2010,29
+349,San Diego,2010,27
+352,Kern,2014,26
+376,Imperial,2017,18
+379,Kern,2013,18
+400,Imperial,2016,13
+402,Ventura,2012,13
+412,Ventura,2010,11
+414,Ventura,2011,10
+423,Santa Barbara,2011,9
+426,Santa Barbara,2012,8
+427,Imperial,2015,8
+439,Santa Barbara,2010,6
+475,San Luis Obispo,2012,4
+482,Riverside,2012,4
+497,Riverside,2010,3
+498,Riverside,2011,3
+499,San Luis Obispo,2011,3
+505,Imperial,2014,3
+517,Imperial,2013,2
+528,San Luis Obispo,2010,1
+532,Kern,2012,1
+533,San Bernardino,2010,1
+535,San Bernardino,2011,1
+540,San Bernardino,2012,1
+544,Kern,2010,1
+567,Kern,2011,1
